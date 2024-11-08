@@ -1,0 +1,14 @@
+- Django:
+    - 
+
+
+######################################################
+
+    - Sintaxe
+    - parâmetros
+    - seu retorno
+    - exemplo
+        - Explicação passo a passo.
+    - métodos mais úteis.
+
+######################################################
