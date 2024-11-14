@@ -1,20 +1,19 @@
-- Django: Models
-
-    
+- Django: Organizando views em packages.
+    - 
 
 
 
 
 ######################################################
 
-    - Sintaxe
-    - parâmetros
-    - seu retorno
-    - comportamento.
-    - exemplo
+    - Sintaxe;
+    - parâmetros;
+    - seu retorno;
+    - comportamento;
+    - exemplo;
         - Explicação passo a passo.
-    - métodos mais úteis.
-    - Link para a documentação oficial onde trata do assunto.
+    - métodos mais úteis;
+    - Link para a documentação oficial onde trata do assunto;
     - Mencione outras informações que sejam relevantes de forma concisa. 
 
 ######################################################
