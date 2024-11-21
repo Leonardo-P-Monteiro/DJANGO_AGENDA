@@ -1,8 +1,20 @@
-- Django: Organizando views em packages.
-    - 
-
-
-
+- Django: 
+    - Pagination
+    - Classe Paginator
+        - Sintaxe;
+        - parâmetros;
+        - seu retorno;
+        - comportamento;
+        - exemplo;
+            - Explicação item por item.
+    - Métodos da classe Paginator
+        - Sintaxe;
+        - parâmetros;
+        - seu retorno;
+    
+    - Paginação em um view.
+        - exemplo;
+            - Explicação item por item.
 
 ######################################################
 
@@ -11,8 +23,8 @@
     - seu retorno;
     - comportamento;
     - exemplo;
-        - Explicação passo a passo.
-    - métodos mais úteis;
+        - Explicação item por item.
+    - métodos úteis;
     - Link para a documentação oficial onde trata do assunto;
     - Mencione outras informações que sejam relevantes de forma concisa. 
 
