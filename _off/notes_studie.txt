@@ -1,31 +1,23 @@
-- Django: 
-    - Pagination
-    - Classe Paginator
+- Django e HTML: 
+
+
+    
+    
+
+
+
+
+
+######################################################
+
         - Sintaxe;
         - parâmetros;
         - seu retorno;
         - comportamento;
         - exemplo;
             - Explicação item por item.
-    - Métodos da classe Paginator
-        - Sintaxe;
-        - parâmetros;
-        - seu retorno;
-    
-    - Paginação em um view.
-        - exemplo;
-            - Explicação item por item.
-
-######################################################
-
-    - Sintaxe;
-    - parâmetros;
-    - seu retorno;
-    - comportamento;
-    - exemplo;
-        - Explicação item por item.
-    - métodos úteis;
-    - Link para a documentação oficial onde trata do assunto;
-    - Mencione outras informações que sejam relevantes de forma concisa. 
+        - métodos úteis;
+        - Link para a documentação oficial onde trata do assunto;
+        - Mencione outras informações que sejam relevantes de forma concisa. 
 
 ######################################################
