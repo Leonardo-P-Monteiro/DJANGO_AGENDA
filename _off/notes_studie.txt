@@ -1,11 +1,6 @@
 - Django e HTML: 
 
 
-    
-    
-
-
-
 
 
 ######################################################
@@ -18,6 +13,8 @@
             - Explicação item por item.
         - métodos úteis;
         - Link para a documentação oficial onde trata do assunto;
-        - Mencione outras informações que sejam relevantes de forma concisa. 
+        - Mencione outras informações que sejam relevantes de forma concisa.
+        - Exemplo envolvendo todos os conceitos trazidos aqui.
+            - Explicação item por item.
 
 ######################################################
