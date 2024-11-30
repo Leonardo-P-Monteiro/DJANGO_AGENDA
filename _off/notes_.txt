@@ -1,5 +1,5 @@
-- Django e HTML: 
-
+- Django: 
+    - ModelObject.picture.url.
 
 
 
@@ -8,13 +8,14 @@
         - Sintaxe;
         - parâmetros;
         - seu retorno;
+        - Em que situações utilizá-la(o);
         - comportamento;
         - exemplo;
-            - Explicação item por item.
+            - Explicação de cada linha do exemplo trazido.
         - métodos úteis;
         - Link para a documentação oficial onde trata do assunto;
         - Mencione outras informações que sejam relevantes de forma concisa.
-        - Exemplo envolvendo todos os conceitos trazidos aqui.
-            - Explicação item por item.
+    - Exemplo envolvendo todos os conceitos trazidos aqui.
+        - Explicação item por item.
 
 ######################################################
