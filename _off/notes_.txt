@@ -1,5 +1,6 @@
-- Django: 
-    - ModelObject.picture.url.
+- Django: Criando Novos Usuários.
+    - classe UserCreationForm:
+    - 
 
 
 
