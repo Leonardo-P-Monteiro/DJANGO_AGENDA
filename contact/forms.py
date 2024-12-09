@@ -7,7 +7,7 @@ from django.contrib.auth import password_validation
 
 
 class ContactForm(forms.ModelForm):
-    picture = forms.ImageField(
+    picture = forms.ImageField(required=False,
         widget= forms.FileInput(
             attrs={'accept':'image/*'}
         )
@@ -165,3 +165,4 @@ class RegisterUpdateForm(forms.ModelForm):
                     )
                 
         return password1
+    
