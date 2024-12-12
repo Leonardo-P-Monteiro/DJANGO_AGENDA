@@ -61,7 +61,7 @@ O git vai acessar esse arquivo e não vai fazer upload de todos os arquivos que 
     git branch nome_arquivo --> Nos permite criar uma nova branch.
 
 # Comando para renomear uma branch:
-    git branch -m novo_nome_branc --> Importante lembrar que para renomear a branch é preciso que estejamos na branch que desejamos renomear.
+    git branch -m 'novo_nome_branc' --> Importante lembrar que para renomear a branch é preciso que estejamos na branch que desejamos renomear.
 
 # Comando para trocar de branch.
     git checkout nome_branch --> Mesmo que utilizamos para retornar a arquivos.

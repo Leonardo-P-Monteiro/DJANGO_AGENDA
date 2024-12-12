@@ -1,4 +1,8 @@
 - Django:
+    - O que é, o que faz, qual sua função do Gunicorn?
+    - O que é, o que faz, qual sua função do Nginx?
+    - pyenv: gerenciador de versões python e ambientes virtuais.
+    - O que é um proxy? E o que é um proxy reverso?
     - 
 
 ######################################################
