@@ -7,4 +7,3 @@ The principal challenge that i faced it was the deploy on Google Cloud. But on t
 Important points: 
 
 - The CSS was provided by course.
-- I don't maintained uploaded the application on the Google Cloud, for obvious reasons.
