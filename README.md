@@ -4,6 +4,13 @@ This project was made during the course [Python 3 do básico ao avançado - com 
 
 The principal challenge that i faced it was the deploy on Google Cloud. But on the final i could obtain succeed on deploy. 
 
+Technologies used:
+
+- HTML;
+- CSS;
+- Python;
+- Docker;
+
 Important points: 
 
 - The CSS was provided by course.
