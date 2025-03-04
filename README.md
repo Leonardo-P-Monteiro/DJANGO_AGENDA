@@ -10,6 +10,7 @@ Technologies used:
 - CSS;
 - Python;
 - Docker;
+- MySQL.
 
 Important points: 
 
