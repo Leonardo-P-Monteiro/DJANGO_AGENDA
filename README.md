@@ -124,7 +124,7 @@ python manage.py collectstatic
 
 ## 👨‍💻 Autor
 
-[Leonardo P. Monteiro](https://github.com/Leonardo-P-Monteiro)
+[Leonardo P. Monteiro](https://www.linkedin.com/in/leonardopmonteiro/)
 
 ---
 
