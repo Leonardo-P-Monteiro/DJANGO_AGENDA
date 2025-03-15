@@ -81,7 +81,8 @@ http://127.0.0.1:8000/
 
 ## 🖼️ Screenshots
 
-*[Adicione screenshots da sua aplicação aqui]*
+![image](https://github.com/user-attachments/assets/ad4fd9ce-db08-4755-8f2f-26ea95981aa4)
+
 
 ## 📋 Estrutura do Projeto
 
