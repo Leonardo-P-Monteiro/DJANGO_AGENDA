@@ -23,7 +23,7 @@ DJANGO_AGENDA é uma aplicação web que permite aos usuários gerenciar seus co
 - [Bootstrap](https://getbootstrap.com/) - Framework CSS
 - [SQLite](https://www.sqlite.org/) - Banco de dados (desenvolvimento)
 - [PostgreSQL](https://www.postgresql.org/) - Banco de dados (produção)
-- [Docker]([https://www.postgresql.org/](https://www.docker.com/) - Virtualziação
+- [Docker](https://www.docker.com/) - Virtualziação
 
 ## 📦 Instalação e Configuração
 
